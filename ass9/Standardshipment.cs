@@ -24,7 +24,6 @@ namespace ass9
         public string GetTrackingStatus()
         {
             return $"The shipment {Trackingcode} is ready";
-
         }
         public decimal CalculateInsurance()
         {
